@@ -4,7 +4,7 @@ interface PendingJob {
     callback?: any;
     options?: any;
 }
-export declare class FileStorm extends EventEmitter {
+export declare class FastFs extends EventEmitter {
     filename: string;
     status: Status;
     pending: PendingJob;

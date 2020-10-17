@@ -1,8 +1,8 @@
 {
-  "name": "fastfs",
-  "version": "1.0.0",
+  "name": "@divy-work/fastfs",
+  "version": "0.0.1-alpha",
   "description": "Fast FS",
-  "main": "dist/index.js",
+  "main": "index.js",
   "author": "Divy Srivastava",
   "license": "MIT",
   "private": false,
