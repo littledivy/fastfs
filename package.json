@@ -1,6 +1,6 @@
 {
   "name": "@divy-work/fastfs",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "Fast FS",
   "main": "index.js",
   "author": "Divy Srivastava",
