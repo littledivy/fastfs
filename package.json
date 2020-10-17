@@ -1,0 +1,20 @@
+{
+  "name": "fastfs",
+  "version": "1.0.0",
+  "description": "Fast FS",
+  "main": "dist/index.js",
+  "author": "Divy Srivastava",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "eventemitter3": "^4.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.10",
+    "tsc": "^1.20150623.0",
+    "typescript": "^4.0.3"
+  }
+}

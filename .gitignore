@@ -1,0 +1,5 @@
+# ignore js builds
+*.js
+
+node_modules/
+*.log
