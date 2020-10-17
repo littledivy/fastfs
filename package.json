@@ -7,7 +7,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "clean": "rm -rf index.js index.d.ts",
+    "fmt": "prettier --write ."
   },
   "dependencies": {
     "eventemitter3": "^4.0.7"

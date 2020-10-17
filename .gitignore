@@ -1,5 +1,6 @@
-# ignore js builds
-*.js
+# ignore builds
+index.js
+index.d.ts
 
 node_modules/
 *.log
