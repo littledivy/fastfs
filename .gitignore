@@ -4,3 +4,5 @@ index.d.ts
 
 node_modules/
 *.log
+
+benchmark_file.txt
